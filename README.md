@@ -6,7 +6,7 @@ Este proyecto aplica la metodología **RFM (Recencia, Frecuencia, Valor Monetari
 ## Resumen Ejecutivo
 El análisis RFM ejecutado revela una base de clientes con alta polarización: **962 clientes se clasifican como 'Campeones'** (el 22% de la base), representando la mayor parte de nuestros ingresos y demostrando una alta lealtad. Sin embargo, se identificó que **824 clientes se encuentran 'En Riesgo'** de fuga, lo cual representa un riesgo de pérdida de valor para el negocio.
 
-🔗 **Informe Ejecutivo Completo:** [Ver Documento PDF](deliverables/Resumen%20Ejecutivo%20RFM.pdf)
+🔗 **Informe Ejecutivo Completo:** [Ver Documento PDF](https://github.com/Marcoaurelio700/proyecto1_analisis_rfm/blob/master/proyecto1_analisis_rfm/deliverables/Resumen%20Ejecutivo%20RFM.pdf)
 
 **Recomendación de Alto Nivel:** Se debe priorizar un plan de acción dual e inmediato:
 1.  **Establecer un programa de fidelización VIP** para los Campeones para defender su valor.
@@ -18,7 +18,7 @@ El dashboard interactivo fue construido en Power BI para comunicar los hallazgos
 * **KPI Principal:** Muestra el recuento de 962 clientes en el segmento "Campeones".
 * **Mapa de Calor:** Visualiza la concentración de clientes según sus puntajes de Recencia y Frecuencia, ubicando el mayor valor en la esquina superior derecha (Recencia 5, Frecuencia 5).
 
-![Dashboard Final del Análisis RFM](deliverables/dashboard_powerbi_rfm_final.png)
+![Dashboard Final del Análisis RFM](https://github.com/Marcoaurelio700/proyecto1_analisis_rfm/blob/master/proyecto1_analisis_rfm/deliverables/dashboard_powerbi_rfm_final.png)
 
 ##  Conclusiones y Plan de Acción
 El análisis RFM dicta dos estrategias de inversión de recursos:
